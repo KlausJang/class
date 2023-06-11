@@ -1,2 +1,0 @@
-# KaggleStruggle
-Kaggle Struggle
